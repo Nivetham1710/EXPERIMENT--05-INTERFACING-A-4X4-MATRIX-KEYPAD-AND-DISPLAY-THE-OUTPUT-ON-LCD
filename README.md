@@ -177,15 +177,13 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
-## CIRCUIT DIAGRAM 
- 
-
 ## STM 32 CUBE PROGRAM :
 
 
 
 ## Output screen shots of proteus  :
- 
+ ![Screenshot (136)](https://github.com/Nivetham1710/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94155183/d24032bf-a727-4747-8f08-ae3fbbbc1def)
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
